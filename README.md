@@ -1,4 +1,5 @@
-######**Olá! Eu sou o Lucas Cardoso** 👋
+
+#**Olá! Eu sou o Lucas Cardoso** 👋
 Bem-vindo ao meu GitHub!
 
 Sou um desenvolvedor apaixonado por tecnologia, natural do Rio de Janeiro 🌴. Meu foco principal é Java, mas também tenho experiência com bancos de dados e outras tecnologias que me permitem criar soluções inovadoras.
