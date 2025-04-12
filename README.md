@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia, natural do Rio de Janeiro 🌴. 
 
 💻 Desenvolvo projetos com Java e estou sempre buscando aprender novas tecnologias.
 
-🗄️ Tenho experiência com bancos de dados, tanto relacionais (como MySQL e PostgreSQL) quanto não-relacionais.
+🗄️ Tenho experiência com bancos de dados relacionais (como MySQL e PostgreSQL).
 
 🌱 Estou sempre em busca de desafios para aprimorar minhas habilidades e expandir meu conhecimento.
 
